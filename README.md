@@ -32,6 +32,9 @@ The dataset contains:
 - Summary
 - Sentiment Labels
 
+🔗 Dataset Link:  
+https://www.kaggle.com/datasets/niraliivaghani/flipkart-product-customer-reviews-dataset
+
 ---
 
 # Techniques Used
@@ -88,16 +91,8 @@ The model demonstrated strong performance in classifying customer sentiments and
 ![Result](test_result.png)
 
 ---
-# Dataset
 
-Dataset Source: Kaggle Flipkart Product Customer Reviews Dataset
-
-The dataset contains customer reviews, summaries, ratings, product prices, and sentiment labels collected from Flipkart products across multiple categories.
-
-🔗 Dataset Link:  
-https://www.kaggle.com/datasets/niraliivaghani/flipkart-product-customer-reviews-dataset
-
-# 💼 Business Value & Real-World Impact
+# Business Value & Real-World Impact
 
 Customer reviews contain valuable insights that businesses can use to improve products, services, and customer experience.
 
@@ -151,4 +146,4 @@ By transforming unstructured text into actionable insights, sentiment analysis c
 
 Aleem Muinat Abimbola
 
-Data Analyst | Data Scientist 
+Data professional 

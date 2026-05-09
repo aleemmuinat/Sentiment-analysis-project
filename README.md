@@ -63,7 +63,7 @@ The dataset contains:
 ## Word Cloud
 Shows the most frequent words across sentiments.
 
-![Word Cloud](word cloud.png)
+![Word Cloud](confusion matrix.png)
 
 ## Confusion Matrix
 Evaluates classification performance across sentiment classes.

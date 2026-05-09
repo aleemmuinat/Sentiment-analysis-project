@@ -68,7 +68,7 @@ Shows the most frequent words across sentiments.
 ## Confusion Matrix
 Evaluates classification performance across sentiment classes.
 
-![Confusion Matrix](confusion matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 
 # Results

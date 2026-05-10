@@ -41,7 +41,7 @@ https://www.kaggle.com/datasets/niraliivaghani/flipkart-product-customer-reviews
 
 The complete end-to-end implementation of this project, including preprocessing, visualization, feature engineering, model training, and evaluation, is available on Kaggle.
 
-👉 [View Notebook on Kaggle]((https://www.kaggle.com/code/aleemmuinat/notebookf882754ab2))
+👉 [View Notebook on Kaggle](https://www.kaggle.com/code/aleemmuinat/notebookf882754ab2)
 
 # Techniques Used
 
